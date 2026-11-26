@@ -2,7 +2,7 @@
 
 Code to reproduce the analysis and figures of
 
-> Siegelman, L., et al. *Submesoscale ocean fronts connect warm Circumpolar Deep Water to Antarctic sea ice during the melt season.* Submitted to *Science Advances*.
+> Siegelman, L., et al. *Deep submesoscale ocean fronts connect warm Circumpolar Deep Water to Antarctic sea ice during the melt season.* Submitted to *Science Advances*.
 
 The analysis uses sub-kilometer CTD profiles recorded by an instrumented southern elephant seal (MEOP tag `ct176-04-23`, January–March 2024) in the East Antarctic marginal ice zone. It diagnoses vertical velocity and vertical heat transport (VHT) at submesoscale fronts with a 2D quasi-geostrophic omega equation.
 
