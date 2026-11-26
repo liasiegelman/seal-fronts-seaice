@@ -1,4 +1,4 @@
-# Submesoscale ocean fronts beneath Antarctic sea ice: seal-borne observations
+# Deep submesoscale ocean fronts beneath Antarctic sea ice: seal-borne observations
 
 Code to reproduce the analysis and figures of
 
