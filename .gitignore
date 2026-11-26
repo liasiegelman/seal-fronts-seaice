@@ -1,0 +1,23 @@
+# data and outputs (not versioned)
+data/
+work/
+figures/
+*.nc
+*.npz
+*.npy
+*.png
+*.pdf
+*.mp4
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# secrets
+credentials.json
+token.json
+.env
+
+# OS
+.DS_Store

@@ -1,0 +1,22 @@
+name: sealfronts
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - scipy=1.16
+  - pandas=2.3
+  - xarray=2025.11
+  - dask=2025.11
+  - netcdf4=1.6
+  - matplotlib=3.10
+  - cartopy=0.21
+  - cmocean=3.0
+  - gsw=3.6
+  - pyproj=3.7
+  - geopy=2.4
+  - astropy=5.2
+  - pip
+  - pip:
+      - xinvert==0.1.7   # uses private xinvert.apps helpers: keep this exact version
+      - cdsapi           # optional, only for scripts/00_download_era5.py
